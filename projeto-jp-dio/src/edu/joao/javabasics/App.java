@@ -1,5 +1,6 @@
+package edu.joao.javabasics;
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         System.out.println("sou foda, dig din dig din dig din");
         System.out.println("incrível");
 
